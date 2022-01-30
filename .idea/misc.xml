@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/MauSam-The-Weather-App/app/src/main/res/font/aclonica.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/MauSam-The-Weather-App/app/src/main/res/font/almendra.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Mayan/AndroidStudioProjects/MauSam-The-Weather-App/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Users/Mayan/AndroidStudioProjects/MauSam/app/src/main/res/drawable/btn_bg.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/Mayan/AndroidStudioProjects/MauSam/app/src/main/res/drawable/cardbg.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/Mayan/AndroidStudioProjects/MauSam/app/src/main/res/drawable/cardhead.xml" value="0.19583333333333333" />
