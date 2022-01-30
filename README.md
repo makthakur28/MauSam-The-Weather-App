@@ -23,8 +23,7 @@ I created an Android Application using java ,XML and an open source openWeatherM
 "https://www.linkedin.com/in/mayankthakur28/">LinkedIn</a>
 <li><a href=
 "https://www.instagram.com/thakur_is_back_2001/">Instagram</a>
-<li><a
-href=
+<li><a href=
 "https://twitter.com/mayankthakur28">Twitter</a>
 <li><a href=
 "https://github.com/makthakur28">GitHub</a>
